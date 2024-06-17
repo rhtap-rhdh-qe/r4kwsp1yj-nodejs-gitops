@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r4kwsp1yj-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/r4kwsp1yj-nodejs-gitops
